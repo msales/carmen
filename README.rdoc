@@ -11,17 +11,17 @@ States are supported for the following countries: Australia, Brazil, Canada, Cub
 If you're in Rails:
 
   # classic style
-  config.gem 'namxam-carmen', :lib => 'carmen', :source => 'http://rubygems.org'
+  config.gem 'msales-carmen', :lib => 'carmen', :source => 'http://rubygems.org'
   
   # when using rubygems 1.3.6
-  config.gem 'namxam-carmen', :lib => 'carmen'
+  config.gem 'msales-carmen', :lib => 'carmen'
   
   # when on rails 3 put this in your Gemfile
-  gem "namxam-carmen", :require => "carmen"
+  gem "msales-carmen", :require => "carmen"
   
 Or as a plugin:
 
-  script/plugin install git://github.com/namxam/carmen
+  script/plugin install git://github.com/msales/carmen
 
 
 == Get a list of all countries
