@@ -53,14 +53,14 @@ module Carmen
   
   # Returns the country name corresponding to the supplied country code
   #  Carmen::country_name('TV') => 'Tuvalu'
-  def self.country_name(country_code)
-    search_collection(countries, country_code, 1, 0)
+  def self.country_name(country_code, options={})
+    search_collection(countries(options), country_code, 1, 0)
   end
 
   # Returns the country code corresponding to the supplied country name
   #  Carmen::country_code('Canada') => 'CA'
-  def self.country_code(country_name)
-    search_collection(countries, country_name, 0, 1)
+  def self.country_code(country_name, options={})
+    search_collection(countries(options), country_name, 0, 1)
   end
 
   # Returns an array of all country codes
