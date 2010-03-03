@@ -5,12 +5,9 @@ require 'hanna/rdoctask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "namxam-carmen"
+    gem.name = "carmen"
     gem.summary = %Q{A collection of geographis country and state names for Ruby}
-    gem.description = %q{A fork of the carmen gem by Jim Benton. This fork allows you to 
-      switch between different locales (Currently english and german).
-      A collection of geographis country and state names for Ruby. 
-      Also includes replacements for Rails' country_select and state_select plugins.}
+    gem.description = %q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins.}
     gem.email = %q{max@jungeelite.de}
     gem.homepage = %q{http://github.com/namxam/carmen}
     gem.authors = ["Jim Benton", "Maximilian Schulz", "Urban Hafner"]
@@ -55,4 +52,24 @@ Rake::RDocTask.new(:rdoc) do |rdoc|
 
   rdoc.rdoc_dir = 'doc' # rdoc output folder
   rdoc.options << '--webcvs=http://github.com/jim/carmen/tree/master/'
+end
+
+namespace :import do
+  desc 'Import country names from ZendFramework'
+  task :zend do
+    $KCODE="u"
+    # The files can be found in library/Zend/Locale/Data in the ZendFramework
+    input = File.expand_path(ENV['FILE'])
+    require File.expand_path(File.join(File.dirname(__FILE__), 'lib', 'carmen'))
+    require 'nokogiri'
+    require 'yaml'
+    doc = Nokogiri::XML(File.open(input))
+    translated = Carmen.countries.map do |name, code|
+      [doc.css("territory[type=#{code}]").first.content, code]
+    end
+    l = File.basename(input, ".*")
+    File.open(File.join(File.dirname(__FILE__), "countries.#{l}.yml"), 'w') do |f|
+      YAML.dump(translated, f)
+    end
+  end
 end
