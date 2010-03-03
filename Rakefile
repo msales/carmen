@@ -5,12 +5,15 @@ require 'hanna/rdoctask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "carmen"
+    gem.name = "namxam-carmen"
     gem.summary = %Q{A collection of geographis country and state names for Ruby}
-    gem.description = %Q{A collection of geographis country and state names for Ruby. Also includes replacements for Rails' country_select and state_select plugins}
-    gem.email = "jim@autonomousmachine.com"
-    gem.homepage = "http://github.com/jim/carmen"
-    gem.authors = ["Jim Benton"]
+    gem.description = %q{A fork of the carmen gem by Jim Benton. This fork allows you to 
+      switch between different locales (Currently english and german).
+      A collection of geographis country and state names for Ruby. 
+      Also includes replacements for Rails' country_select and state_select plugins.}
+    gem.email = %q{max@jungeelite.de}
+    gem.homepage = %q{http://github.com/namxam/carmen}
+    gem.authors = ["Jim Benton", "Maximilian Schulz", "Urban Hafner"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
