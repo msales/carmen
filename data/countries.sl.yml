@@ -1,0 +1,487 @@
+--- 
+- - Afganistan
+  - AF
+- - "Alandsko oto\xC4\x8Dje"
+  - AX
+- - Albanija
+  - AL
+- - "Al\xC5\xBEirija"
+  - DZ
+- - "Ameri\xC5\xA1ka Samoa"
+  - AS
+- - Andora
+  - AD
+- - Angola
+  - AO
+- - Angvila
+  - AI
+- - Antarktika
+  - AQ
+- - Antigva in Barbuda
+  - AG
+- - Argentina
+  - AR
+- - Armenija
+  - AM
+- - Aruba
+  - AW
+- - Avstralija
+  - AU
+- - Avstrija
+  - AT
+- - "Azerbajd\xC5\xBEan"
+  - AZ
+- - Bahami
+  - BS
+- - Bahrajn
+  - BH
+- - "Banglade\xC5\xA1"
+  - BD
+- - Barbados
+  - BB
+- - Belorusija
+  - BY
+- - Belgija
+  - BE
+- - Belize
+  - BZ
+- - Benin
+  - BJ
+- - Bermudi
+  - BM
+- - Butan
+  - BT
+- - Bolivija
+  - BO
+- - Bosna in Hercegovina
+  - BA
+- - Bocvana
+  - BW
+- - Bouvetov otok
+  - BV
+- - Brazilija
+  - BR
+- - Britansko ozemlje v Indijskem oceanu
+  - IO
+- - Brunej
+  - BN
+- - Bolgarija
+  - BG
+- - Burkina Faso
+  - BF
+- - Burundi
+  - BI
+- - "Kambod\xC5\xBEa"
+  - KH
+- - Kamerun
+  - CM
+- - Kanada
+  - CA
+- - Zelenortski otoki
+  - CV
+- - Kajmanski otoki
+  - KY
+- - "Centralnoafri\xC5\xA1ka republika"
+  - CF
+- - "\xC4\x8Cad"
+  - TD
+- - "\xC4\x8Cile"
+  - CL
+- - Kitajska
+  - CN
+- - "Bo\xC5\xBEi\xC4\x8Dni otok"
+  - CX
+- - Kokosovi otoki
+  - CC
+- - Kolumbija
+  - CO
+- - Komori
+  - KM
+- - Kongo
+  - CG
+- - "Demokrati\xC4\x8Dna republika Kongo"
+  - CD
+- - "Cookovo oto\xC4\x8Dje"
+  - CK
+- - Kostarika
+  - CR
+- - "Slonoko\xC5\xA1\xC4\x8Dena obala"
+  - CI
+- - "Hrva\xC5\xA1ka"
+  - HR
+- - Kuba
+  - CU
+- - Ciper
+  - CY
+- - "\xC4\x8Ce\xC5\xA1ka"
+  - CZ
+- - Danska
+  - DK
+- - "D\xC5\xBEibuti"
+  - DJ
+- - Dominika
+  - DM
+- - Dominikanska republika
+  - DO
+- - Ekvador
+  - EC
+- - Egipt
+  - EG
+- - Salvador
+  - SV
+- - Ekvatorialna Gvineja
+  - GQ
+- - Eritreja
+  - ER
+- - Estonija
+  - EE
+- - Etiopija
+  - ET
+- - Falklandski otoki
+  - FK
+- - Ferski otoki
+  - FO
+- - "Fid\xC5\xBEi"
+  - FJ
+- - Finska
+  - FI
+- - Francija
+  - FR
+- - Francoska Gvajana
+  - GF
+- - Francoska Polinezija
+  - PF
+- - "Francosko ju\xC5\xBEno ozemlje"
+  - TF
+- - Gabon
+  - GA
+- - Gambija
+  - GM
+- - Gruzija
+  - GE
+- - "Nem\xC4\x8Dija"
+  - DE
+- - Gana
+  - GH
+- - Gibraltar
+  - GI
+- - "Gr\xC4\x8Dija"
+  - GR
+- - Grenlandija
+  - GL
+- - Grenada
+  - GD
+- - Gvadalupe
+  - GP
+- - Guam
+  - GU
+- - Gvatemala
+  - GT
+- - Guernsey
+  - GG
+- - Gvineja
+  - GN
+- - Gvineja Bissau
+  - GW
+- - Gvajana
+  - GY
+- - Haiti
+  - HT
+- - "Otok Heard in oto\xC4\x8Dje McDonald"
+  - HM
+- - Vatikan
+  - VA
+- - Honduras
+  - HN
+- - "Posebno administrativno obmo\xC4\x8Dje LR Kitajske Hong Kong"
+  - HK
+- - "Mad\xC5\xBEarska"
+  - HU
+- - Islandija
+  - IS
+- - Indija
+  - IN
+- - Indonezija
+  - ID
+- - Iran
+  - IR
+- - Irak
+  - IQ
+- - Irska
+  - IE
+- - Otok Man
+  - IM
+- - Izrael
+  - IL
+- - Italija
+  - IT
+- - Jamajka
+  - JM
+- - Japonska
+  - JP
+- - Jersey
+  - JE
+- - Jordanija
+  - JO
+- - Kazahstan
+  - KZ
+- - Kenija
+  - KE
+- - Kiribati
+  - KI
+- - Severna Koreja
+  - KP
+- - "Ju\xC5\xBEna Koreja"
+  - KR
+- - Kuvajt
+  - KW
+- - Kirgizistan
+  - KG
+- - Laos
+  - LA
+- - Latvija
+  - LV
+- - Libanon
+  - LB
+- - Lesoto
+  - LS
+- - Liberija
+  - LR
+- - Libija
+  - LY
+- - "Lihten\xC5\xA1tajn"
+  - LI
+- - Litva
+  - LT
+- - Luksemburg
+  - LU
+- - "Posebno administrativno obmo\xC4\x8Dje LR Kitajske Macao"
+  - MO
+- - Makedonija
+  - MK
+- - Madagaskar
+  - MG
+- - Malavi
+  - MW
+- - Malezija
+  - MY
+- - Maldivi
+  - MV
+- - Mali
+  - ML
+- - Malta
+  - MT
+- - Marshallovi otoki
+  - MH
+- - Martinik
+  - MQ
+- - Mavretanija
+  - MR
+- - Mauritius
+  - MU
+- - Mayotte
+  - YT
+- - Mehika
+  - MX
+- - Mikronezija
+  - FM
+- - Moldavija
+  - MD
+- - Monako
+  - MC
+- - Mongolija
+  - MN
+- - Montserrat
+  - MS
+- - Maroko
+  - MA
+- - Mozambik
+  - MZ
+- - Mjanmar
+  - MM
+- - Namibija
+  - NA
+- - Nauru
+  - NR
+- - Nepal
+  - NP
+- - Nizozemska
+  - NL
+- - Nizozemski Antili
+  - AN
+- - Nova Kaledonija
+  - NC
+- - Nova Zelandija
+  - NZ
+- - Nikaragva
+  - NI
+- - Niger
+  - NE
+- - Nigerija
+  - NG
+- - Niue
+  - NU
+- - "Norfol\xC5\xA1ki otok"
+  - NF
+- - Severni Marianski otoki
+  - MP
+- - "Norve\xC5\xA1ka"
+  - "NO"
+- - Oman
+  - OM
+- - Pakistan
+  - PK
+- - Palau
+  - PW
+- - Palestinsko ozemlje
+  - PS
+- - Panama
+  - PA
+- - Papua Nova Gvineja
+  - PG
+- - Paragvaj
+  - PY
+- - Peru
+  - PE
+- - Filipini
+  - PH
+- - Pitcairn
+  - PN
+- - Poljska
+  - PL
+- - Portugalska
+  - PT
+- - Portoriko
+  - PR
+- - Katar
+  - QA
+- - Reunion
+  - RE
+- - Romunija
+  - RO
+- - Rusija
+  - RU
+- - Ruanda
+  - RW
+- - Sveta Helena
+  - SH
+- - Saint Kitts in Nevis
+  - KN
+- - Saint Lucia
+  - LC
+- - Saint Pierre in Miquelon
+  - PM
+- - Saint Vincent in Grenadine
+  - VC
+- - Samoa
+  - WS
+- - San Marino
+  - SM
+- - Sao Tome in Principe
+  - ST
+- - Saudova Arabija
+  - SA
+- - Senegal
+  - SN
+- - "Srbija in \xC4\x8Crna gora"
+  - CS
+- - "Sej\xC5\xA1eli"
+  - SC
+- - Sierra Leone
+  - SL
+- - Singapur
+  - SG
+- - "Slova\xC5\xA1ka"
+  - SK
+- - Slovenija
+  - SI
+- - Salomonovi otoki
+  - SB
+- - Somalija
+  - SO
+- - "Ju\xC5\xBEnoafri\xC5\xA1ka republika"
+  - ZA
+- - "Ju\xC5\xBEna Georgia in Ju\xC5\xBEni Sandwichevi otoki"
+  - GS
+- - "\xC5\xA0panija"
+  - ES
+- - "\xC5\xA0rilanka"
+  - LK
+- - Sudan
+  - SD
+- - Surinam
+  - SR
+- - Svalbard in Jan Mayen
+  - SJ
+- - Svazi
+  - SZ
+- - "\xC5\xA0vedska"
+  - SE
+- - "\xC5\xA0vica"
+  - CH
+- - Sirija
+  - SY
+- - Tajvan
+  - TW
+- - "Tad\xC5\xBEikistan"
+  - TJ
+- - Tanzanija
+  - TZ
+- - Tajska
+  - TH
+- - Vzhodni Timor
+  - TL
+- - Togo
+  - TG
+- - Tokelau
+  - TK
+- - Tonga
+  - TO
+- - Trinidad in Tobago
+  - TT
+- - Tunizija
+  - TN
+- - "Tur\xC4\x8Dija"
+  - TR
+- - Turkmenistan
+  - TM
+- - "Oto\xC4\x8Dji Turks in Caicos"
+  - TC
+- - Tuvalu
+  - TV
+- - Uganda
+  - UG
+- - Ukrajina
+  - UA
+- - "Zdru\xC5\xBEeni arabski emirati"
+  - AE
+- - Velika Britanija
+  - GB
+- - "Zdru\xC5\xBEene dr\xC5\xBEave Amerike"
+  - US
+- - "Druga ameri\xC5\xA1ka ozemlja v Tihem oceanu"
+  - UM
+- - Urugvaj
+  - UY
+- - Uzbekistan
+  - UZ
+- - Vanuatu
+  - VU
+- - Venezuela
+  - VE
+- - Vietnam
+  - VN
+- - "Britanski Devi\xC5\xA1ki otoki"
+  - VG
+- - "Ameri\xC5\xA1ki Devi\xC5\xA1ki otoki"
+  - VI
+- - Wallis in Futuna
+  - WF
+- - Zahodna Sahara
+  - EH
+- - Jemen
+  - YE
+- - Zambija
+  - ZM
+- - Zimbabve
+  - ZW

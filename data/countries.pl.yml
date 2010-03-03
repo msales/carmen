@@ -1,0 +1,487 @@
+--- 
+- - Afganistan
+  - AF
+- - Wyspy Alandzkie
+  - AX
+- - Albania
+  - AL
+- - Algieria
+  - DZ
+- - "Samoa Ameryka\xC5\x84skie"
+  - AS
+- - Andora
+  - AD
+- - Angola
+  - AO
+- - Anguilla
+  - AI
+- - Antarktyka
+  - AQ
+- - Antigua i Barbuda
+  - AG
+- - Argentyna
+  - AR
+- - Armenia
+  - AM
+- - Aruba
+  - AW
+- - Australia
+  - AU
+- - Austria
+  - AT
+- - "Azerbejd\xC5\xBCan"
+  - AZ
+- - Bahamy
+  - BS
+- - Bahrajn
+  - BH
+- - Bangladesz
+  - BD
+- - Barbados
+  - BB
+- - "Bia\xC5\x82oru\xC5\x9B"
+  - BY
+- - Belgia
+  - BE
+- - Belize
+  - BZ
+- - Benin
+  - BJ
+- - Bermudy
+  - BM
+- - Bhutan
+  - BT
+- - Boliwia
+  - BO
+- - "Bo\xC5\x9Bnia i Hercegowina"
+  - BA
+- - Botswana
+  - BW
+- - Wyspa Bouveta
+  - BV
+- - Brazylia
+  - BR
+- - Terytorium Brytyjskie Oceanu Indyjskiego
+  - IO
+- - Brunei Darussalam
+  - BN
+- - "Bu\xC5\x82garia"
+  - BG
+- - Burkina Faso
+  - BF
+- - Burundi
+  - BI
+- - "Kambod\xC5\xBCa"
+  - KH
+- - Kamerun
+  - CM
+- - Kanada
+  - CA
+- - "Republika Zielonego Przyl\xC4\x85dka"
+  - CV
+- - Kajmany
+  - KY
+- - "Republika \xC5\x9Arodkowoafryka\xC5\x84ska"
+  - CF
+- - Czad
+  - TD
+- - Chile
+  - CL
+- - Chiny
+  - CN
+- - "Wyspa Bo\xC5\xBCego Narodzenia"
+  - CX
+- - Wyspy Kokosowe
+  - CC
+- - Kolumbia
+  - CO
+- - Komory
+  - KM
+- - Kongo
+  - CG
+- - Demokratyczna Republika Konga
+  - CD
+- - Wyspy Cooka
+  - CK
+- - Kostaryka
+  - CR
+- - "Wybrze\xC5\xBCe Ko\xC5\x9Bci S\xC5\x82oniowej"
+  - CI
+- - Chorwacja
+  - HR
+- - Kuba
+  - CU
+- - Cypr
+  - CY
+- - Czechy
+  - CZ
+- - Dania
+  - DK
+- - "D\xC5\xBCibuti"
+  - DJ
+- - Dominika
+  - DM
+- - "Republika Dominika\xC5\x84ska"
+  - DO
+- - Ekwador
+  - EC
+- - Egipt
+  - EG
+- - Salwador
+  - SV
+- - "Gwinea R\xC3\xB3wnikowa"
+  - GQ
+- - Erytrea
+  - ER
+- - Estonia
+  - EE
+- - Etiopia
+  - ET
+- - Falklandy
+  - FK
+- - Wyspy Owcze
+  - FO
+- - "Fid\xC5\xBCi"
+  - FJ
+- - Finlandia
+  - FI
+- - Francja
+  - FR
+- - Gujana Francuska
+  - GF
+- - Polinezja Francuska
+  - PF
+- - "Francuskie Terytoria Po\xC5\x82udniowe"
+  - TF
+- - Gabon
+  - GA
+- - Gambia
+  - GM
+- - Gruzja
+  - GE
+- - Niemcy
+  - DE
+- - Ghana
+  - GH
+- - Gibraltar
+  - GI
+- - Grecja
+  - GR
+- - Grenlandia
+  - GL
+- - Grenada
+  - GD
+- - Gwadelupa
+  - GP
+- - Guam
+  - GU
+- - Gwatemala
+  - GT
+- - Wyspa Guernsey
+  - GG
+- - Gwinea
+  - GN
+- - Gwinea Bissau
+  - GW
+- - Gujana
+  - GY
+- - Haiti
+  - HT
+- - Wyspy Heard i McDonalda
+  - HM
+- - Watykan
+  - VA
+- - Honduras
+  - HN
+- - Hongkong, Specjalny Region Administracyjny Chin
+  - HK
+- - "W\xC4\x99gry"
+  - HU
+- - Islandia
+  - IS
+- - Indie
+  - IN
+- - Indonezja
+  - ID
+- - Iran
+  - IR
+- - Irak
+  - IQ
+- - Irlandia
+  - IE
+- - Wyspa Man
+  - IM
+- - Izrael
+  - IL
+- - "W\xC5\x82ochy"
+  - IT
+- - Jamajka
+  - JM
+- - Japonia
+  - JP
+- - Wyspa Jersey
+  - JE
+- - Jordania
+  - JO
+- - Kazachstan
+  - KZ
+- - Kenia
+  - KE
+- - Kiribati
+  - KI
+- - "Korea P\xC3\xB3\xC5\x82nocna"
+  - KP
+- - "Korea Po\xC5\x82udniowa"
+  - KR
+- - Kuwejt
+  - KW
+- - Kirgistan
+  - KG
+- - Laos
+  - LA
+- - "\xC5\x81otwa"
+  - LV
+- - Liban
+  - LB
+- - Lesotho
+  - LS
+- - Liberia
+  - LR
+- - Libia
+  - LY
+- - Liechtenstein
+  - LI
+- - Litwa
+  - LT
+- - Luksemburg
+  - LU
+- - Makau, Specjalny Region Administracyjny Chin
+  - MO
+- - Macedonia
+  - MK
+- - Madagaskar
+  - MG
+- - Malawi
+  - MW
+- - Malezja
+  - MY
+- - Malediwy
+  - MV
+- - Mali
+  - ML
+- - Malta
+  - MT
+- - Wyspy Marshalla
+  - MH
+- - Martynika
+  - MQ
+- - Mauretania
+  - MR
+- - Mauritius
+  - MU
+- - Majotta
+  - YT
+- - Meksyk
+  - MX
+- - Federalne Stany Mikronezji
+  - FM
+- - "Mo\xC5\x82dawia"
+  - MD
+- - Monako
+  - MC
+- - Mongolia
+  - MN
+- - Montserrat
+  - MS
+- - Maroko
+  - MA
+- - Mozambik
+  - MZ
+- - Birma
+  - MM
+- - Namibia
+  - NA
+- - Nauru
+  - NR
+- - Nepal
+  - NP
+- - Holandia
+  - NL
+- - Antyle Holenderskie
+  - AN
+- - Nowa Kaledonia
+  - NC
+- - Nowa Zelandia
+  - NZ
+- - Nikaragua
+  - NI
+- - Niger
+  - NE
+- - Nigeria
+  - NG
+- - Niue
+  - NU
+- - Norfolk
+  - NF
+- - "Mariany P\xC3\xB3\xC5\x82nocne"
+  - MP
+- - Norwegia
+  - "NO"
+- - Oman
+  - OM
+- - Pakistan
+  - PK
+- - Palau
+  - PW
+- - "Terytoria Palesty\xC5\x84skie"
+  - PS
+- - Panama
+  - PA
+- - Papua Nowa Gwinea
+  - PG
+- - Paragwaj
+  - PY
+- - Peru
+  - PE
+- - Filipiny
+  - PH
+- - Pitcairn
+  - PN
+- - Polska
+  - PL
+- - Portugalia
+  - PT
+- - Portoryko
+  - PR
+- - Katar
+  - QA
+- - Reunion
+  - RE
+- - Rumunia
+  - RO
+- - Rosja
+  - RU
+- - Rwanda
+  - RW
+- - "Wyspa \xC5\x9Awi\xC4\x99tej Heleny"
+  - SH
+- - Saint Kitts i Nevis
+  - KN
+- - Saint Lucia
+  - LC
+- - Saint-Pierre i Miquelon
+  - PM
+- - Saint Vincent i Grenadyny
+  - VC
+- - Samoa
+  - WS
+- - San Marino
+  - SM
+- - "Wyspy \xC5\x9Awi\xC4\x99tego Tomasza i Ksi\xC4\x85\xC5\xBC\xC4\x99ca"
+  - ST
+- - Arabia Saudyjska
+  - SA
+- - Senegal
+  - SN
+- - "Serbia i Czarnog\xC3\xB3ra"
+  - CS
+- - Seszele
+  - SC
+- - Sierra Leone
+  - SL
+- - Singapur
+  - SG
+- - "S\xC5\x82owacja"
+  - SK
+- - "S\xC5\x82owenia"
+  - SI
+- - Wyspy Salomona
+  - SB
+- - Somalia
+  - SO
+- - "Republika Po\xC5\x82udniowej Afryki"
+  - ZA
+- - "Georgia Po\xC5\x82udniowa i Sandwich Po\xC5\x82udniowy"
+  - GS
+- - Hiszpania
+  - ES
+- - Sri Lanka
+  - LK
+- - Sudan
+  - SD
+- - Surinam
+  - SR
+- - Svalbard i Jan Mayen
+  - SJ
+- - Suazi
+  - SZ
+- - Szwecja
+  - SE
+- - Szwajcaria
+  - CH
+- - Syria
+  - SY
+- - Tajwan
+  - TW
+- - "Tad\xC5\xBCykistan"
+  - TJ
+- - Tanzania
+  - TZ
+- - Tajlandia
+  - TH
+- - Timor Wschodni
+  - TL
+- - Togo
+  - TG
+- - Tokelau
+  - TK
+- - Tonga
+  - TO
+- - Trynidad i Tobago
+  - TT
+- - Tunezja
+  - TN
+- - Turcja
+  - TR
+- - Turkmenistan
+  - TM
+- - Turks i Caicos
+  - TC
+- - Tuvalu
+  - TV
+- - Uganda
+  - UG
+- - Ukraina
+  - UA
+- - Zjednoczone Emiraty Arabskie
+  - AE
+- - Wielka Brytania
+  - GB
+- - Stany Zjednoczone
+  - US
+- - "Dalekie Wyspy Mniejsze Stan\xC3\xB3w Zjednoczonych"
+  - UM
+- - Urugwaj
+  - UY
+- - Uzbekistan
+  - UZ
+- - Vanuatu
+  - VU
+- - Wenezuela
+  - VE
+- - Wietnam
+  - VN
+- - Brytyjskie Wyspy Dziewicze
+  - VG
+- - "Wyspy Dziewicze Stan\xC3\xB3w Zjednoczonych"
+  - VI
+- - Wallis i Futuna
+  - WF
+- - Sahara Zachodnia
+  - EH
+- - Jemen
+  - YE
+- - Zambia
+  - ZM
+- - Zimbabwe
+  - ZW

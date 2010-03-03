@@ -1,13 +1,13 @@
 --- 
-- - Afghanistan
+- - Afganistan
   - AF
-- - Alandinseln
+- - Ahvenanmaa
   - AX
-- - Albanien
+- - Albania
   - AL
-- - Algerien
+- - Algeria
   - DZ
-- - Amerikanisch-Samoa
+- - Amerikan Samoa
   - AS
 - - Andorra
   - AD
@@ -17,31 +17,31 @@
   - AI
 - - Antarktis
   - AQ
-- - Antigua und Barbuda
+- - Antigua ja Barbuda
   - AG
-- - Argentinien
+- - Argentiina
   - AR
-- - Armenien
+- - Armenia
   - AM
 - - Aruba
   - AW
-- - Australien
+- - Australia
   - AU
-- - "\xC3\x96sterreich"
+- - "It\xC3\xA4valta"
   - AT
-- - Aserbaidschan
+- - "Azerbaid\xC5\xBEan"
   - AZ
-- - Bahamas
+- - Bahama
   - BS
 - - Bahrain
   - BH
-- - Bangladesch
+- - Bangladesh
   - BD
 - - Barbados
   - BB
-- - Belarus
+- - "Valko-Ven\xC3\xA4j\xC3\xA4"
   - BY
-- - Belgien
+- - Belgia
   - BE
 - - Belize
   - BZ
@@ -51,27 +51,27 @@
   - BM
 - - Bhutan
   - BT
-- - Bolivien
+- - Bolivia
   - BO
-- - Bosnien und Herzegowina
+- - Bosnia ja Hertsegovina
   - BA
-- - Botsuana
+- - Botswana
   - BW
-- - Bouvetinsel
+- - "Bouvet\xE2\x80\x99nsaari"
   - BV
-- - Brasilien
+- - Brasilia
   - BR
-- - Britisches Territorium im Indischen Ozean
+- - "Brittil\xC3\xA4inen Intian valtameren alue"
   - IO
-- - Brunei Darussalam
+- - Brunei
   - BN
-- - Bulgarien
+- - Bulgaria
   - BG
 - - Burkina Faso
   - BF
 - - Burundi
   - BI
-- - Kambodscha
+- - "Kambod\xC5\xBEa"
   - KH
 - - Kamerun
   - CM
@@ -79,95 +79,95 @@
   - CA
 - - Kap Verde
   - CV
-- - Kaimaninseln
+- - Caymansaaret
   - KY
-- - Zentralafrikanische Republik
+- - Keski-Afrikan tasavalta
   - CF
-- - Tschad
+- - "T\xC5\xA1ad"
   - TD
 - - Chile
   - CL
-- - China
+- - Kiina
   - CN
-- - Weihnachtsinsel
+- - Joulusaari
   - CX
-- - Kokosinseln
+- - Kookossaaret
   - CC
-- - Kolumbien
+- - Kolumbia
   - CO
-- - Komoren
+- - Komorit
   - KM
-- - Kongo
+- - Kongo-Brazzaville
   - CG
-- - Demokratische Republik Kongo
+- - Kongo-Kinshasa
   - CD
-- - Cookinseln
+- - Cookinsaaret
   - CK
 - - Costa Rica
   - CR
-- - "C\xC3\xB4te d\xE2\x80\x99Ivoire"
+- - Norsunluurannikko
   - CI
-- - Kroatien
+- - Kroatia
   - HR
-- - Kuba
+- - Kuuba
   - CU
-- - Zypern
+- - Kypros
   - CY
-- - Tschechische Republik
+- - "T\xC5\xA1ekki"
   - CZ
-- - "D\xC3\xA4nemark"
+- - Tanska
   - DK
-- - Dschibuti
+- - Djibouti
   - DJ
 - - Dominica
   - DM
-- - Dominikanische Republik
+- - Dominikaaninen tasavalta
   - DO
 - - Ecuador
   - EC
-- - "\xC3\x84gypten"
+- - Egypti
   - EG
 - - El Salvador
   - SV
-- - "\xC3\x84quatorialguinea"
+- - "P\xC3\xA4iv\xC3\xA4ntasaajan Guinea"
   - GQ
 - - Eritrea
   - ER
-- - Estland
+- - Viro
   - EE
-- - "\xC3\x84thiopien"
+- - Etiopia
   - ET
-- - Falklandinseln
+- - Falklandinsaaret
   - FK
-- - "F\xC3\xA4r\xC3\xB6er"
+- - "F\xC3\xA4rsaaret"
   - FO
-- - Fidschi
+- - "Fid\xC5\xBEi"
   - FJ
-- - Finnland
+- - Suomi
   - FI
-- - Frankreich
+- - Ranska
   - FR
-- - "Franz\xC3\xB6sisch-Guayana"
+- - Ranskan Guayana
   - GF
-- - "Franz\xC3\xB6sisch-Polynesien"
+- - Ranskan Polynesia
   - PF
-- - "Franz\xC3\xB6sische S\xC3\xBCd- und Antarktisgebiete"
+- - "Ranskan ulkopuoliset etel\xC3\xA4iset alueet"
   - TF
-- - Gabun
+- - Gabon
   - GA
 - - Gambia
   - GM
-- - Georgien
+- - Georgia
   - GE
-- - Deutschland
+- - Saksa
   - DE
 - - Ghana
   - GH
 - - Gibraltar
   - GI
-- - Griechenland
+- - Kreikka
   - GR
-- - "Gr\xC3\xB6nland"
+- - "Gr\xC3\xB6nlanti"
   - GL
 - - Grenada
   - GD
@@ -187,59 +187,59 @@
   - GY
 - - Haiti
   - HT
-- - Heard- und McDonald-Inseln
+- - Heard- ja McDonaldinsaaret
   - HM
-- - Vatikanstadt
+- - Vatikaani
   - VA
 - - Honduras
   - HN
-- - Sonderverwaltungszone Hongkong
+- - "Hongkong \xE2\x80\x93 Kiinan erityishallintoalue"
   - HK
-- - Ungarn
+- - Unkari
   - HU
-- - Island
+- - Islanti
   - IS
-- - Indien
+- - Intia
   - IN
-- - Indonesien
+- - Indonesia
   - ID
 - - Iran
   - IR
 - - Irak
   - IQ
-- - Irland
+- - Irlanti
   - IE
-- - Isle of Man
+- - Mansaari
   - IM
 - - Israel
   - IL
-- - Italien
+- - Italia
   - IT
 - - Jamaika
   - JM
-- - Japan
+- - Japani
   - JP
 - - Jersey
   - JE
-- - Jordanien
+- - Jordania
   - JO
-- - Kasachstan
+- - Kazakstan
   - KZ
 - - Kenia
   - KE
 - - Kiribati
   - KI
-- - Demokratische Volksrepublik Korea
+- - Pohjois-Korea
   - KP
-- - Republik Korea
+- - "Etel\xC3\xA4-Korea"
   - KR
 - - Kuwait
   - KW
-- - Kirgisistan
+- - Kirgisia
   - KG
 - - Laos
   - LA
-- - Lettland
+- - Latvia
   - LV
 - - Libanon
   - LB
@@ -247,49 +247,49 @@
   - LS
 - - Liberia
   - LR
-- - Libyen
+- - Libya
   - LY
 - - Liechtenstein
   - LI
-- - Litauen
+- - Liettua
   - LT
 - - Luxemburg
   - LU
-- - Sonderverwaltungszone Macao
+- - "Macao \xE2\x80\x93 Kiinan erityishallintoalue"
   - MO
-- - Mazedonien
+- - Makedonia
   - MK
 - - Madagaskar
   - MG
 - - Malawi
   - MW
-- - Malaysia
+- - Malesia
   - MY
-- - Malediven
+- - Malediivit
   - MV
 - - Mali
   - ML
 - - Malta
   - MT
-- - Marshallinseln
+- - Marshallinsaaret
   - MH
 - - Martinique
   - MQ
-- - Mauretanien
+- - Mauritania
   - MR
 - - Mauritius
   - MU
 - - Mayotte
   - YT
-- - Mexiko
+- - Meksiko
   - MX
-- - Mikronesien
+- - Mikronesian liittovaltio
   - FM
-- - Republik Moldau
+- - Moldova
   - MD
 - - Monaco
   - MC
-- - Mongolei
+- - Mongolia
   - MN
 - - Montserrat
   - MS
@@ -305,13 +305,13 @@
   - NR
 - - Nepal
   - NP
-- - Niederlande
+- - Alankomaat
   - NL
-- - "Niederl\xC3\xA4ndische Antillen"
+- - Alankomaiden Antillit
   - AN
-- - Neukaledonien
+- - Uusi-Kaledonia
   - NC
-- - Neuseeland
+- - Uusi-Seelanti
   - NZ
 - - Nicaragua
   - NI
@@ -321,11 +321,11 @@
   - NG
 - - Niue
   - NU
-- - Norfolkinsel
+- - Norfolkinsaari
   - NF
-- - "N\xC3\xB6rdliche Marianen"
+- - Pohjois-Mariaanit
   - MP
-- - Norwegen
+- - Norja
   - "NO"
 - - Oman
   - OM
@@ -333,103 +333,103 @@
   - PK
 - - Palau
   - PW
-- - "Pal\xC3\xA4stinensische Gebiete"
+- - Palestiina
   - PS
 - - Panama
   - PA
-- - Papua-Neuguinea
+- - Papua-Uusi-Guinea
   - PG
 - - Paraguay
   - PY
 - - Peru
   - PE
-- - Philippinen
+- - Filippiinit
   - PH
 - - Pitcairn
   - PN
-- - Polen
+- - Puola
   - PL
-- - Portugal
+- - Portugali
   - PT
 - - Puerto Rico
   - PR
-- - Katar
+- - Qatar
   - QA
 - - "R\xC3\xA9union"
   - RE
-- - "Rum\xC3\xA4nien"
+- - Romania
   - RO
-- - "Russische F\xC3\xB6deration"
+- - "Ven\xC3\xA4j\xC3\xA4"
   - RU
 - - Ruanda
   - RW
-- - St. Helena
+- - Saint Helena
   - SH
-- - St. Kitts und Nevis
+- - Saint Kitts ja Nevis
   - KN
-- - St. Lucia
+- - Saint Lucia
   - LC
-- - St. Pierre und Miquelon
+- - Saint-Pierre ja Miquelon
   - PM
-- - St. Vincent und die Grenadinen
+- - Saint Vincent ja Grenadiinit
   - VC
 - - Samoa
   - WS
 - - San Marino
   - SM
-- - "S\xC3\xA3o Tom\xC3\xA9 und Pr\xC3\xADncipe"
+- - "S\xC3\xA3o Tom\xC3\xA9 ja Pr\xC3\xADncipe"
   - ST
-- - Saudi-Arabien
+- - Saudi-Arabia
   - SA
 - - Senegal
   - SN
-- - Serbien und Montenegro
+- - Serbia ja Montenegro
   - CS
-- - Seychellen
+- - Seychellit
   - SC
 - - Sierra Leone
   - SL
-- - Singapur
+- - Singapore
   - SG
-- - Slowakei
+- - Slovakia
   - SK
-- - Slowenien
+- - Slovenia
   - SI
-- - Salomonen
+- - Salomonsaaret
   - SB
 - - Somalia
   - SO
-- - "S\xC3\xBCdafrika"
+- - "Etel\xC3\xA4-Afrikka"
   - ZA
-- - "S\xC3\xBCdgeorgien und die S\xC3\xBCdlichen Sandwichinseln"
+- - "Etel\xC3\xA4-Georgia ja Etel\xC3\xA4iset Sandwichsaaret"
   - GS
-- - Spanien
+- - Espanja
   - ES
 - - Sri Lanka
   - LK
 - - Sudan
   - SD
-- - Suriname
+- - Surinam
   - SR
-- - Svalbard und Jan Mayen
+- - Huippuvuoret ja Jan Mayen
   - SJ
-- - Swasiland
+- - Swazimaa
   - SZ
-- - Schweden
+- - Ruotsi
   - SE
-- - Schweiz
+- - Sveitsi
   - CH
-- - Syrien
+- - Syyria
   - SY
 - - Taiwan
   - TW
-- - Tadschikistan
+- - "Tad\xC5\xBEikistan"
   - TJ
 - - Tansania
   - TZ
-- - Thailand
+- - Thaimaa
   - TH
-- - Osttimor
+- - "It\xC3\xA4-Timor"
   - TL
 - - Togo
   - TG
@@ -437,33 +437,33 @@
   - TK
 - - Tonga
   - TO
-- - Trinidad und Tobago
+- - Trinidad ja Tobago
   - TT
-- - Tunesien
+- - Tunisia
   - TN
-- - "T\xC3\xBCrkei"
+- - Turkki
   - TR
 - - Turkmenistan
   - TM
-- - Turks- und Caicosinseln
+- - Turks- ja Caicossaaret
   - TC
 - - Tuvalu
   - TV
 - - Uganda
   - UG
-- - Ukraine
+- - Ukraina
   - UA
-- - Vereinigte Arabische Emirate
+- - Arabiemiirikunnat
   - AE
-- - "Vereinigtes K\xC3\xB6nigreich"
+- - Britannia
   - GB
-- - Vereinigte Staaten
+- - Yhdysvallat
   - US
-- - Amerikanisch-Ozeanien
+- - Yhdysvaltain pienet erillissaaret
   - UM
 - - Uruguay
   - UY
-- - Usbekistan
+- - Uzbekistan
   - UZ
 - - Vanuatu
   - VU
@@ -471,17 +471,17 @@
   - VE
 - - Vietnam
   - VN
-- - Britische Jungferninseln
+- - "Brittil\xC3\xA4iset Neitsytsaaret"
   - VG
-- - Amerikanische Jungferninseln
+- - Yhdysvaltain Neitsytsaaret
   - VI
-- - Wallis und Futuna
+- - Wallis ja Futuna
   - WF
-- - Westsahara
+- - "L\xC3\xA4nsi-Sahara"
   - EH
 - - Jemen
   - YE
 - - Sambia
   - ZM
-- - Simbabwe
+- - Zimbabwe
   - ZW
